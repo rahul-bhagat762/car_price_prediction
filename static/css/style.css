@@ -1,0 +1,14 @@
+.{
+    margin:0
+    padding:0
+    boc-sizing: border-box;
+}
+body{
+    background-image: url("css/bg1.jpeg");
+}
+
+.mt-50
+{
+    margin-top:50p
+
+}
